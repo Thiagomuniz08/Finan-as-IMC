@@ -61,6 +61,6 @@ Gerencie suas finanças de forma simples e prática com React Native + Expo!
 
 ---
 
-## 🖼️ Screenshot
+## 🖼️  Wireframe
 
 ![Screenshot](./assets/images/Captura%20de%20tela%202025-08-05%20162916.png)
